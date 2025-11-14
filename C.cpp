@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "Enter your gender (M/F)";
+    cout << "Enter your gender (M/F)" << endl;
     char gender;
     
     cin >> gender;
